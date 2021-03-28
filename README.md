@@ -7,5 +7,5 @@ Data-processing instructions
 Load/Store instructions
   LDR, STR, LDRB
 
-Branch instruction (PC <= PC + offset, PC holds 8 bytes past Branch
+Branch instruction
   B
